@@ -1,0 +1,182 @@
+body
+	{
+		background-color: #006600;
+		color:#ffffff;
+		margin: 50px 15% 50px 15%;
+		font-family: 'Amiri', serif;	}
+
+a 
+	{
+		color: #ffffff;
+		padding-right: 10px;
+		text-decoration: none;
+		font-family: 'Amiri', serif;
+	}
+
+a:link 
+	{
+  		color: black;
+	}
+
+a:visited
+	{
+  		color: white;
+	}
+
+a:hover 
+	{
+	  color: red;
+	}
+
+a:active 
+	{
+	  color: black;
+	}
+
+h1
+	{
+		background-color: #ac3939;
+		color: #1a1300;
+   		width: 100%;
+   		padding: 5px;
+   		border-radius: 10px;
+		font-family: 'Acme', sans-serif;
+		font-size: 48px;
+		border: solid 4px wheat;
+		text-align: center;
+	}
+.im
+	{ 
+		max-width:100%; 
+		height: auto;
+		float: right;
+		margin:10px 0 15px 25px;
+		border: solid 5px #ac3939;
+		padding: 5px;
+		border-radius: 10px;
+
+	}
+
+.iy
+	{ 
+		max-width:100%; 
+		height: auto;
+		float: left;
+		margin:10px 25px 15px 0;
+		border: solid 5px #cccccc;
+		padding: 5px;
+		border-radius: 10px;
+	}
+
+.ix
+	{ 
+		max-width:100%; 
+		height: auto;
+		margin:30px 0 10px 0;
+		border-radius: 5px;
+		border: solid 5px black;
+	}
+
+.iz
+	{ 
+		max-width:100%; 
+		height: auto;
+		margin:0 0 20px 0;
+		border-radius: 5px;
+		border: solid 5px white;
+	}
+
+.hm
+	{ 
+		max-width:100%; 
+		height: auto;
+		float: right;
+		margin:7px 0 0 25px;
+		border: solid 5px #cccccc;
+		padding: 5px;
+		border-radius: 10px;
+	}
+
+.hy
+	{ 
+		max-width:100%; 
+		height: auto;
+		float: left;
+		margin:5px 25px 0 0;
+		border: solid 5px black;
+		padding: 5px;
+		border-radius: 10px;
+	}
+
+.hx
+	{ 
+		max-width:100%; 
+		height: auto;
+		float: right;
+		margin:10px 0 0 25px;
+		border: solid 5px red;
+		padding: 5px;
+		border-radius: 10px;
+	}
+
+.cm
+	{ 
+		max-width:100%; 
+		height: auto;
+		float: right;
+		margin:13px 0 15px 25px;
+		border: solid 10px black;
+		border-radius: 10px;
+	}
+
+.cy
+	{ 
+		max-width:100%; 
+		height: auto;
+		float: left;
+		margin:10px 25px 0 0;
+		border: solid 7px #ac3939;
+		border-radius: 10px;
+		padding: 3px;
+	}
+
+.cx
+	{ 
+		max-width:100%; 
+		height: auto;
+		float: right;
+		margin:15px 0 0 25px;
+		border: solid 5px #cccccc;
+		padding: 5px;
+		border-radius: 10px;
+	}
+
+.cz
+	{ 
+		max-width:100%; 
+		height: auto;
+		float: left;
+		margin:10px 25px 0 0;
+		border: solid 5px #ac3939;
+		padding: 5px;
+		border-radius: 10px;
+	}
+
+h2
+	{
+   	background-color: #e63900;
+   	color: #1a1300;
+   	width: 100%;
+   	padding: 5px;
+   	border-radius: 10px;
+   	border: solid 4px black;
+		font-family: 'Acme', sans-serif;
+
+	}
+
+p
+	{
+		color: navajowhite;
+		text-align: justify;
+		line-height: 30px;
+	}
